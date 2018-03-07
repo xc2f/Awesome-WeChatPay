@@ -1,6 +1,5 @@
 # **[微信支付开发简介](https://pay.weixin.qq.com/wiki/doc/api/index.html)**
-> 作者：秦奋
-<br />
+> 作者：秦奋<br />
 > 时间：2018-03-06
 
 ## 平台角色
